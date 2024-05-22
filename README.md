@@ -11,3 +11,6 @@ This is a reference for some of the data analytics work I have done and a useful
 **infrastructure_sankey.ipynb**
 <br>This was indulgent and really just used to learn how to structure data for Sankey diagrams. I came across a nice example by Microsoft that detailed their revenue in this way and thought it would be a nice representation to show how we are moving our infrastructure to be immutable and better maintained over time.
 
+**ibm_spacex_ml_prediction.ipynb**
+<br>This was the final part of the IBM Data Science Professional Certificate Capstone to find the best model to predict SpaceX landing outcomes.
+
